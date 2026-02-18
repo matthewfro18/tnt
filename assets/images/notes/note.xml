@@ -1,23 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!--
-Created with Free texture packer v0.6.7 http://free-tex-packer.com
--->
-<TextureAtlas imagePath="tex3.png" width="977" height="504">
-  <SubTexture name="active" x="437" y="216"  width="157" height="154" frameX="-0" frameY="-0" frameWidth="157" frameHeight="154"/>
-  <SubTexture name="arrowDOWN0000" x="633" y="4"  width="157" height="154" frameX="-0" frameY="-0" frameWidth="157" frameHeight="154"/>
-  <SubTexture name="down confirmA0001" x="4" y="4"  width="236" height="235" frameX="40" frameY="41" frameWidth="157" frameHeight="154"/>
-  <SubTexture name="down confirmA0002" x="4" y="247"  width="236" height="235" frameX="40" frameY="41" frameWidth="157" frameHeight="154"/>
-  <SubTexture name="down confirmA0003" x="248" y="4"  width="204" height="204" frameX="24" frameY="26" frameWidth="157" frameHeight="154"/>
-  <SubTexture name="down confirmB0001" x="248" y="216"  width="181" height="178" frameX="13" frameY="13" frameWidth="157" frameHeight="154"/>
-  <SubTexture name="down confirmB0002" x="248" y="216"  width="181" height="178" frameX="13" frameY="13" frameWidth="157" frameHeight="154"/>
-  <SubTexture name="down confirmB0003" x="460" y="4"  width="165" height="162" frameX="5" frameY="5" frameWidth="157" frameHeight="154"/>
-  <SubTexture name="down pressA0001" x="573" y="378"  width="121" height="117" frameX="-18" frameY="-19" frameWidth="157" frameHeight="154"/>
-  <SubTexture name="down pressA0002" x="852" y="313"  width="121" height="117" frameX="-18" frameY="-19" frameWidth="157" frameHeight="154"/>
-  <SubTexture name="down pressA0003" x="437" y="378"  width="128" height="122" frameX="-14" frameY="-17" frameWidth="157" frameHeight="154"/>
-  <SubTexture name="down pressB0001" x="767" y="166"  width="142" height="139" frameX="-8" frameY="-7" frameWidth="157" frameHeight="154"/>
-  <SubTexture name="down pressB0002" x="702" y="336"  width="142" height="139" frameX="-8" frameY="-7" frameWidth="157" frameHeight="154"/>
-  <SubTexture name="down pressB0003" x="798" y="4"  width="149" height="146" frameX="-4" frameY="-4" frameWidth="157" frameHeight="154"/>
-  <SubTexture name="end" x="248" y="402"  width="50" height="64" frameX="-0" frameY="-0" frameWidth="50" frameHeight="64"/>
-  <SubTexture name="hold" x="306" y="402"  width="50" height="44" frameX="-0" frameY="-0" frameWidth="50" frameHeight="44"/>
-  <SubTexture name="scroll" x="602" y="174"  width="157" height="154" frameX="-0" frameY="-0" frameWidth="157" frameHeight="154"/>
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="note.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="arrowDOWN00000" x="500" y="471" width="161" height="158" frameX="0" frameY="0" frameWidth="159" frameHeight="156"/>
+	<SubTexture name="arrowSQUARE00000" x="0" y="471" width="174" height="172" frameX="0" frameY="0" frameWidth="172" frameHeight="170"/>
+	<SubTexture name="square confirmA0000" x="240" y="0" width="240" height="239" frameX="-2" frameY="-2" frameWidth="240" frameHeight="239"/>
+	<SubTexture name="square confirmA0001" x="0" y="0" width="240" height="239" frameX="-2" frameY="-2" frameWidth="240" frameHeight="239"/>
+	<SubTexture name="square confirmA0002" x="480" y="0" width="220" height="221" frameX="-14" frameY="-15" frameWidth="240" frameHeight="239"/>
+	<SubTexture name="square confirmA0003" x="480" y="0" width="220" height="221" frameX="-14" frameY="-15" frameWidth="240" frameHeight="239"/>
+	<SubTexture name="end00000" x="719" y="643" width="54" height="48" frameX="0" frameY="0" frameWidth="52" frameHeight="46"/>
+	<SubTexture name="hold0000" x="665" y="643" width="54" height="68" frameX="0" frameY="0" frameWidth="52" frameHeight="66"/>
+	<SubTexture name="scroll0000" x="339" y="471" width="161" height="158" frameX="0" frameY="0" frameWidth="159" frameHeight="156"/>
+	<SubTexture name="square confirmB0000" x="0" y="471" width="174" height="172" frameX="0" frameY="0" frameWidth="172" frameHeight="170"/>
+	<SubTexture name="down confirmB00000" x="500" y="471" width="161" height="158" frameX="0" frameY="0" frameWidth="159" frameHeight="156"/>
+	<SubTexture name="down confirmA0000" x="0" y="239" width="233" height="232" frameX="0" frameY="0" frameWidth="238" frameHeight="236"/>
+	<SubTexture name="down confirmA0001" x="233" y="239" width="233" height="232" frameX="0" frameY="0" frameWidth="238" frameHeight="236"/>
+	<SubTexture name="down confirmA0002" x="480" y="221" width="214" height="215" frameX="-9" frameY="-8" frameWidth="238" frameHeight="235"/>
+	<SubTexture name="down confirmA0003" x="480" y="221" width="214" height="215" frameX="-9" frameY="-8" frameWidth="238" frameHeight="235"/>
+	<SubTexture name="down pressA0000" x="540" y="643" width="125" height="121" frameX="-16" frameY="-17" frameWidth="157" frameHeight="154"/>
+	<SubTexture name="down pressA0001" x="540" y="643" width="125" height="121" frameX="-16" frameY="-17" frameWidth="157" frameHeight="154"/>
+	<SubTexture name="down pressA0002" x="408" y="643" width="132" height="126" frameX="-12" frameY="-15" frameWidth="157" frameHeight="154"/>
+	<SubTexture name="down pressB0000" x="700" y="466" width="146" height="143" frameX="-6" frameY="-5" frameWidth="157" frameHeight="154"/>
+	<SubTexture name="down pressB0001" x="700" y="466" width="146" height="143" frameX="-6" frameY="-5" frameWidth="157" frameHeight="154"/>
+	<SubTexture name="down pressB0002" x="700" y="316" width="153" height="150" frameX="-2" frameY="-2" frameWidth="157" frameHeight="154"/>
+	<SubTexture name="square pressA0000" x="0" y="643" width="140" height="141" frameX="-13" frameY="-13" frameWidth="164" frameHeight="163"/>
+	<SubTexture name="square pressA0001" x="274" y="643" width="134" height="135" frameX="-14" frameY="-14" frameWidth="162" frameHeight="161"/>
+	<SubTexture name="square pressA0002" x="140" y="643" width="134" height="136" frameX="-14" frameY="-13" frameWidth="162" frameHeight="161"/>
+	<SubTexture name="square pressB00000" x="174" y="471" width="165" height="165" frameX="0" frameY="0" frameWidth="164" frameHeight="163"/>
+	<SubTexture name="square pressB0000" x="700" y="158" width="157" height="158" frameX="-2" frameY="-2" frameWidth="162" frameHeight="161"/>
+	<SubTexture name="square pressB0001" x="700" y="0" width="157" height="158" frameX="-2" frameY="-2" frameWidth="162" frameHeight="161"/>
 </TextureAtlas>
